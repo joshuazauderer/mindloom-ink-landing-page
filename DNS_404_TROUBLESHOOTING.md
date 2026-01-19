@@ -210,3 +210,25 @@ If after 30 minutes the domain still shows 404:
 
 Most issues resolve within 30 minutes of setting nameservers correctly.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -131,3 +131,25 @@ But for **hybrid projects** (static files + serverless functions), Vercel someti
 
 This configuration tells Vercel exactly how to handle the static files while preserving the serverless function functionality.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -58,3 +58,25 @@ When you use Vercel nameservers, DNS works immediately, but Vercel still needs y
 - [ ] Test: `curl -I https://www.mindloom.ink`
 - [ ] Should see `HTTP/2 200` (not 404)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

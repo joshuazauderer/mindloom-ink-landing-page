@@ -114,3 +114,25 @@ mindloom.ink → cname.vercel-dns.com (CNAME method)
 OR
 mindloom.ink → 76.76.21.21 (A record method)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -128,3 +128,25 @@ After these changes and redeployment:
 - ✅ All static assets (CSS, images, videos) load correctly
 - ✅ API routes (`/api/waitlist`) work correctly
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
