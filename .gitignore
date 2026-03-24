@@ -47,3 +47,14 @@ npm-debug.log*
 
 .vercel
 
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+service-account*.json
+*secret*
+.npmrc
+.netrc
